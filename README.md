@@ -1,5 +1,5 @@
 ## Hi, I'm Pui ☺️
-I'm a Full Stack Devloper, a girl who are passionate about computer science and happy to the assignment was successful
+Waralee Sakaranurak, I'm a Full Stack Devloper from Bangkok, a girl who are passionate about computer science and happy to the assignment was successful
 
 ### Languages and Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
